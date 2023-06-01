@@ -5,6 +5,7 @@
 1. Bubble sort
 2. Insertion sort
 3. Selection sort
+4. Cyclic sort
 
 
 ________________________________________________________________________________________________
@@ -75,3 +76,34 @@ _________________________________________________
 
 ______________________________________________
 
+**4. Cyclic Sort**
+
+**a. Time Complexity Analysis:**
+
+1. Worst Case : O(n) 
+
+2. Average Case: O(n) 
+
+3. Best Case : O(n)
+
+4. Space complexity : O(1)
+
+**b. Advantage of Cycle sort:**
+
+1. No additional storage is required.
+
+2. in-place sorting algorithm.
+
+3. A minimum number of writes to the memory
+
+4. Cycle sort is useful when the array is stored in EEPROM or FLASH. 
+
+**c. Disadvantage  of Cycle sort:**
+
+1. It is not mostly used.
+
+2.It has more time complexity o(n^2)
+
+3. Unstable sorting algorithm.
+
+_______________________________________________________________
