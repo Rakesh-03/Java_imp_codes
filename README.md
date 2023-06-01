@@ -4,6 +4,7 @@
 
 1. Bubble sort
 2. Insertion sort
+3. Selection sort
 
 
 ________________________________________________________________________________________________
@@ -49,3 +50,28 @@ ________________________________________________________________________________
 3. Insertion sort is adaptive in nature, i.e. it is appropriate for data sets that are already partially sorted.
 
 _________________________________________________
+
+**3. Selection Sort**
+
+**a. Complexity Analysis of Selection Sort**
+
+1. Time Complexity:  O(N^2) 
+
+2. Space Complexity: O(1)
+
+**b. Advantages of Selection Sort Algorithm**
+
+1. Simple and easy to understand.
+
+2. Works well with small datasets.
+
+**c. Disadvantages of the Selection Sort Algorithm**
+
+1. Selection sort has a time complexity of O(n^2) in the worst and average case.
+
+2. Does not work well on large datasets.
+
+3. Does not preserve the relative order of items with equal keys which means it is not stable.
+
+______________________________________________
+
