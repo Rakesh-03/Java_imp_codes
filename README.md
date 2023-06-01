@@ -102,7 +102,7 @@ ______________________________________________
 
 1. It is not mostly used.
 
-2.It has more time complexity o(n^2)
+2. It has more time complexity o(n^2)
 
 3. Unstable sorting algorithm.
 
