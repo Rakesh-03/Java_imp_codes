@@ -6,6 +6,7 @@
 2. Insertion sort
 3. Selection sort
 4. Cyclic sort
+5. Star and Number Patterns 
 
 
 ________________________________________________________________________________________________
