@@ -1,6 +1,6 @@
 # Java_imp_codes
 
-**Important Java Coding Questions for Interview**
+**Important Coding Questions for Interview Using Java**
 
 1. Bubble sort
 2. Insertion sort
