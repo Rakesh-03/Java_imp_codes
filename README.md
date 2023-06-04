@@ -8,6 +8,10 @@
 4. Cyclic sort
 5. Star and Number Patterns 
 6. Comparing Linked List
+7. Merge the Sorted Linked List
+8. Find the merge point of two Linked List
+9. Partition of Linked List
+10. Reorder Linked List
 
 
 ________________________________________________________________________________________________
