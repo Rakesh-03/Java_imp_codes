@@ -10,18 +10,19 @@
 
 **Linked Lists :**
 
-7. Comparing Linked List
-8. Merge the Sorted Linked List
-9. Find the merge point of two Linked List
-10. Partition of Linked List
-11. Reorder Linked List
+6. Comparing Linked List
+7. Merge the Sorted Linked List
+8. Find the merge point of two Linked List
+9. Partition of Linked List
+10. Reorder Linked List
 
 **Stacks :**
 
-12. Equal stacks
-13. Game of two stacks
-14. Balanced Brackets Using Stack
-15. And Xor Or
+11. Equal stacks
+12. Game of two stacks
+13. Balanced Brackets Using Stack
+14. And Xor Or
+15. Largest Rectangle 
 
 
 ________________________________________________________________________________________________
