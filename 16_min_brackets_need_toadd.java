@@ -1,6 +1,7 @@
-class Solution
+import java.util.*;
+class Main
  {
-    public int minAddToMakeValid(String s) 
+    public static int minAddToMakeValid(String s) 
     {
        Stack<Character> stack = new Stack<>();
 
@@ -26,5 +27,17 @@ class Solution
        }
 
        return stack.size();
+    }
+    
+    
+    public static void main(String args[])
+    {
+        Scanner sc = new Scanner(System.in);
+        
+        String s = sc.next();
+        
+        int c = minAddToMakeValid(s);
+        
+        System.out.println(c);
     }
 }
