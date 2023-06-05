@@ -80,7 +80,7 @@ public class Solution
             h3.add(scanner.nextInt());
         }
 
-        int result = equalStacks(h1, h2, h3);
+        int result = Result.equalStacks(h1, h2, h3);
         System.out.println(result);
 
         scanner.close();
