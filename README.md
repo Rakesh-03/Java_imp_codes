@@ -23,7 +23,7 @@
 13. Balanced Brackets Using Stack
 14. And Xor Or
 15. Largest Rectangle 
-16. Minimum Brackets need to add to make perfect closings
+16. Minimum Brackets need to add to make valid
 
 
 ________________________________________________________________________________________________
