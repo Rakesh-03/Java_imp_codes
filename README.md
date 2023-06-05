@@ -14,6 +14,7 @@
 10. Reorder Linked List
 11. Equal stacks
 12. Game of two stacks
+13. Balanced Brackets Using Stack
 
 
 ________________________________________________________________________________________________
