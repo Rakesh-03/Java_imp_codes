@@ -12,6 +12,8 @@
 8. Find the merge point of two Linked List
 9. Partition of Linked List
 10. Reorder Linked List
+11. Equal stacks
+12. Game of two stacks
 
 
 ________________________________________________________________________________________________
