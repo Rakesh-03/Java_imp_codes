@@ -10,19 +10,18 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-class Result 
+class Result
 {
-
-    public static String isBalanced(String s)
+public static String isBalanced(String s)
     {
         String yes = "YES";
         String no = "NO";
-       if(s.length() %2 !=0 || s.length() == 0)
+       if(s.length() %2 !=0)
        {
           return no;
        }
         
-       Deque<Character> stack = new ArrayDeque<Character>();
+       Stack<Character> stack = new Stack<>();
         
         for(int i = 0 ; i < s.length();i++)
         {
@@ -30,44 +29,35 @@ class Result
             if(c == '(' || c=='{' || c=='[')
             {
                 stack.push(c);
+                continue;
             }
-        
-            if(stack.isEmpty())
+            else
             {
-                return no;
+               if(c == ')')
+               {
+                   if(!stack.isEmpty() && stack.pop() != '(')
+                   {
+                       return no;
+                   }
+               }
+               if(c == ']')
+               {
+                   if(!stack.isEmpty() && stack.pop() != '[')
+                   {
+                       return no;
+                   }
+               }
+               if(c == '}')
+               {
+                   if(!stack.isEmpty() && stack.pop() != '{')
+                   {
+                       return no;
+                   }
+               }
             }
-            char find;
-
-            switch(c)
-            {
-                case ')':
-               find = stack.pop();
-                if(find != '(')
-                {
-                    return no;
-                }
-                break;
-            case '}':
-               find = stack.pop();
-                if(find != '{')
-                {
-                    return no;
-                   
-                }
-                break;
-            case ']':
-               find = stack.pop();
-                if(find != '[')
-                {
-                    return no;
-                }
-                break;
-            }
-      }
-    return yes;
-
-    }
-
+         }
+        return stack.isEmpty()?yes:no;
+     }
 }
 
 public class Solution {
