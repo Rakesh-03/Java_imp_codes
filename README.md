@@ -7,6 +7,7 @@
 3. Selection sort
 4. Cyclic sort
 5. Star and Number Patterns 
+18. Longest Substring Without Repeating Characters  
 
 **Linked Lists :**
 
