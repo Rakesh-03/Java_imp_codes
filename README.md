@@ -24,6 +24,7 @@
 14. And Xor Or
 15. Largest Rectangle 
 16. Minimum Brackets need to add to make valid
+17. Reveal cards in Increasing order
 
 
 ________________________________________________________________________________________________
