@@ -16,7 +16,7 @@
 9. Partition of Linked List
 10. Reorder Linked List
 
-**Stacks :**
+**Stacks and Queues:**
 
 11. Equal stacks
 12. Game of two stacks
