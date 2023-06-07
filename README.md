@@ -6,8 +6,8 @@
 2. Insertion sort
 3. Selection sort
 4. Cyclic sort
-5. Star and Number Patterns 
-18. Longest Substring Without Repeating Characters  
+5. Star and Number Patterns
+6. 18_Longest Substring Without Repeating Characters  
 
 **Linked Lists :**
 
@@ -26,6 +26,7 @@
 15. Largest Rectangle 
 16. Minimum Brackets need to add to make valid
 17. Reveal cards in Increasing order
+18. 19_Simplify_Path 
 
 
 ________________________________________________________________________________________________
