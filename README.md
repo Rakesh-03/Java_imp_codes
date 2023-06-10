@@ -17,7 +17,7 @@
 9. Partition of Linked List
 10. Reorder Linked List
 
-**Stacks and Queues:**
+**Stacks and Queues :**
 
 11. Equal stacks
 12. Game of two stacks
@@ -27,6 +27,10 @@
 16. Minimum Brackets need to add to make valid
 17. Reveal cards in Increasing order
 18. 19_Simplify_Path 
+
+**Trees :**
+
+20. Level Order Traversal 
 
 
 ________________________________________________________________________________________________
