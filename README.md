@@ -8,6 +8,7 @@
 4. Cyclic sort
 5. Star and Number Patterns
 6. 18_Longest Substring Without Repeating Characters  
+7. 21_Merge Sort
 
 **Linked Lists :**
 
