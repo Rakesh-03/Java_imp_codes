@@ -32,7 +32,8 @@
 
 **Trees :**
 
-20. Level Order Traversal 
+20. Level Order Traversal
+22. 22_Binary_Search_tree_or_not 
 
 
 ________________________________________________________________________________________________
