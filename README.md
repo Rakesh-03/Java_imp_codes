@@ -9,6 +9,7 @@
 5. Star and Number Patterns
 6. 18_Longest Substring Without Repeating Characters  
 7. 21_Merge Sort
+8. 22_Substrings of a string
 
 **Linked Lists :**
 
