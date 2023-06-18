@@ -2,38 +2,38 @@
 
 **Important Coding Questions for Interview Using Java**
 
-1. Bubble sort
-2. Insertion sort
-3. Selection sort
-4. Cyclic sort
-5. Star and Number Patterns
+1. 1_Bubble sort
+2. 2_Insertion sort
+3. 3_Selection sort
+4. 4_Cyclic sort
+5. 5_Star and Number Patterns
 6. 18_Longest Substring Without Repeating Characters  
 7. 21_Merge Sort
 8. 23_Substrings of a string
 
 **Linked Lists :**
 
-6. Comparing Linked List
-7. Merge the Sorted Linked List
-8. Find the merge point of two Linked List
-9. Partition of Linked List
-10. Reorder Linked List
+1. 6_Comparing Linked List
+2. 7_Merge the Sorted Linked List
+3. 8_Find the merge point of two Linked List
+4. 9_Partition of Linked List
+5. 10_Reorder Linked List
 
 **Stacks and Queues :**
 
-11. Equal stacks
-12. Game of two stacks
-13. Balanced Brackets Using Stack
-14. And Xor Or
-15. Largest Rectangle 
-16. Minimum Brackets need to add to make valid
-17. Reveal cards in Increasing order
-18. 19_Simplify_Path 
+1. 11_Equal stacks
+2. 12_Game of two stacks
+3. 13_Balanced Brackets Using Stack
+4. 14_And Xor Or
+5. 15_Largest Rectangle 
+6. 16_Minimum Brackets need to add to make valid
+7. 17_Reveal cards in Increasing order
+8. 19_Simplify_Path 
 
 **Trees :**
 
-20. Level Order Traversal
-22. 22_Binary_Search_tree_or_not 
+1. 20_Level Order Traversal
+2. 22_Binary_Search_tree_or_not 
 
 
 ________________________________________________________________________________________________
